@@ -17,6 +17,8 @@ body {
     color: #d9dcd6;
 }
 
+/* end of header */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,8 @@ body {
     margin-left: 25px;
 }
 
+/* end of header and nav links */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -49,6 +53,8 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+/* end of main img */ 
 
 a {
     color: #ffffff;
@@ -129,6 +135,8 @@ p {
     font-size: 36px;
 }
 
+/* end of article */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +196,8 @@ p {
     max-width: 150px;
 }
 
+/* end of aside */
+
 footer {
     padding: 30px;
     clear: both;
@@ -198,3 +208,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* end of footer */
