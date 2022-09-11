@@ -14,11 +14,11 @@ To view you can click here → <a href="https://thaivytran.github.io/code-refact
 
 Once the webpage is open right click on the mouse and click "Inspect" and Dev tools will appear.
 
-<img src="https://i.ibb.co/kS8HvVj/Screen-Shot-2022-09-10-at-11-30-00-AM.png" alt="Screen-Shot-2022-09-10-at-11-30-00-AM" border="0"></a>
+<img src="https://i.ibb.co/kS8HvVj/Screen-Shot-2022-09-10-at-11-30-00-AM.png"></a>
 
 When Dev Tools appear click on the little square with a cursor on the upper left hand side of Dev Tools. Once you click it, you can view any HTML and CSS codes on the webpage.
 
-<img src="https://i.ibb.co/2STPzCx/resize-Dev-Tools.png" alt="resize-Dev-Tools" border="0"></a>
+<img src="https://i.ibb.co/6gsBZKj/Screen-Shot-2022-09-10-at-9-04-50-PM.png"></a>
 
 ## Credits
 
