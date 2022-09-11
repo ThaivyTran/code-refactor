@@ -45,7 +45,7 @@ nav ul li {
 
 /* end of header and nav links */
 
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
